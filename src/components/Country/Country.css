@@ -1,0 +1,9 @@
+.country {
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.38);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.visited {
+    background-color: burlywood;
+}

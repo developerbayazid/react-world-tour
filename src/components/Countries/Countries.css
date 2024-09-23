@@ -1,0 +1,8 @@
+.country-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+.visited-flags img {
+    width: 50px;
+}
